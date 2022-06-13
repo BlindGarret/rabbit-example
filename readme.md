@@ -31,7 +31,7 @@ Requires a Docker and Docker Compose installed on your local system.
 
 ### Installation
 
-1. Standup the RabbitMQ Service - User/Pass will default to Guest:Guest
+1. Standup the RabbitMQ Service - User/Pass will default to guest:guest for the [Dashboard](http://localhost:15672/) 
    ```sh
    docker-compose up -d
    ```
